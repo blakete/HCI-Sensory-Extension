@@ -7,4 +7,4 @@ We will need sensory improvements to our computer interfaces in order to make di
 
 # Short term goal
 * Improve understanding of human touch
-* Document SOTA in human computer interfaces
+* Document SOTA in human computer interfaces (for now, writing to, not reading from, human nervous system)
