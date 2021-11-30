@@ -19,3 +19,9 @@
 * Electricity
 * Networks
 * Coding
+* AR
+* VR
+* Fabric
+* Smart Tattoos
+* Human Biology
+* 
