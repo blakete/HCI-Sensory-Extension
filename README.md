@@ -10,7 +10,7 @@
 * Document SOTA in human computer interfaces (for now, writing to, not reading from, human nervous system)
 
 #
-### Research Areas
+### Research
 * Haptics
 * Speakers
 * Sound Waves
