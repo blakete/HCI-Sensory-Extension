@@ -9,6 +9,8 @@
 * Improve understanding of human touch
 * Document SOTA in human computer interfaces (for now, writing to, not reading from, human nervous system)
 
+# 
+
 # Research Areas
 * Haptics
 * Speakers
