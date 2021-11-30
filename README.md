@@ -11,7 +11,7 @@
 
 # 
 
-# Research Areas
+Research Areas
 * Haptics
 * Speakers
 * Sound Waves
